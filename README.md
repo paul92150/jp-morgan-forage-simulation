@@ -60,9 +60,7 @@ File: task4_fico_bucketing.py
 
 ## Requirements
 
-pip install -r requirements.txt
-
-If you don’t have a requirements.txt, the core libraries used are:
+The core libraries used are:
 
 - pandas
 - numpy
