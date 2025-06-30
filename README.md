@@ -47,7 +47,7 @@ Goal: Optimize FICO score buckets to improve default prediction using log-likeli
 File: task4_fico_bucketing.py
 
 ## Repository Structure
-'''text
+```text
 .
 ├── data/
 │   ├── Nat_Gas.csv
@@ -57,7 +57,7 @@ File: task4_fico_bucketing.py
 ├── task3_expected_loss_model.py
 ├── task4_fico_bucketing.py
 └── README.md
-'''
+```
 
 ## Requirements
 
